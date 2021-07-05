@@ -3,5 +3,8 @@ function Demo() {
     console.log("Demo GIT COMMIT !");
 }
 
+function sum(a, b) {
+    console.log(a + b);
+}
 
-module.exports = Demo;
+module.exports = { Demo, sum };
