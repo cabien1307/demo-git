@@ -1,4 +1,5 @@
 function Demo() {
+    this.name = '';
     console.log("Demo GIT COMMIT !");
 }
 
