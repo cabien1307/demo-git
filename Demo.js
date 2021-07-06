@@ -6,5 +6,5 @@ function Demo() {
 function sum(a, b) {
     console.log(a + b);
 }
-
+sum(1, 2)
 module.exports = { Demo, sum };
